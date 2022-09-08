@@ -193,3 +193,17 @@ h5 {
     right: 15%;
     top: 20%;
 }
+
+.LinkedIn {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    position: relative;
+    top: 15%;
+    right: 17%;
+
+    font-family: Kefa, Serif;
+    font-size: x-large;
+    font-weight: bold;
+    color: palevioletred;
+}
