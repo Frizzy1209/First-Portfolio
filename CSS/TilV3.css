@@ -1,0 +1,195 @@
+* {
+    margin: 2px;
+}
+
+.Start {
+    background-image: url('../Foto-GIF/miles.gif');
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.uStart {
+    list-style: none;
+}
+
+.uStart a:hover {
+    color: white;
+}
+
+.uStart a {
+    font-family: "PT Sans";
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 125px;
+    text-decoration: none;
+    color: #d90303;
+}
+
+h1 {
+    color: black;
+    animation-name: example;
+    animation-duration: 20s;
+}
+
+@keyframes example {
+    0% {
+        color: black;
+    }
+    25% {
+        color: red;
+    }
+    50% {
+        color: black;
+    }
+    80% {
+        color: red;
+    }
+    100% {
+        color: black;
+    }
+
+}
+
+h1 {
+    font-family: Monaco;
+    font-size: 100px;
+    letter-spacing: 10px;
+    padding-top: 230px;
+    padding-left: 40px;
+}
+
+.intro {
+    font-family: Farah;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 33px;
+
+    border-radius: 10px;
+    height: 40px;
+    width: 340px;
+    background-color: white;
+    margin-left: 60px;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+
+.KortOm {
+    background-color: #d90303;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+h2 {
+    font-family: "Arial Black";
+    color: white;
+    font-size: xxx-large;
+    padding-left: 40px;
+    padding-top: 30px;
+}
+
+.\/1 {
+    font-family: Arial;
+    color: black;
+    font-size: x-large;
+    padding-left: 55px;
+    text-align: left;
+    letter-spacing: 3px;
+    margin-top: 30px;
+    margin-right: 400px;
+    margin-left: 40px;
+}
+
+.Uddan {
+    background-image: url('../Foto-GIF/Uddann.jpg');
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+h3 {
+    font-family: "Arial Black";
+    color: white;
+    font-size: xxx-large;
+    padding-left: 40px;
+    padding-top: 30px;
+}
+
+.\/2 {
+    font-family: Arial;
+    color: seagreen;
+    padding-left: 55px;
+    margin: 40px;
+    font-size: xx-large;
+}
+
+.\/22 {
+    font-family: Arial;
+    color: white;
+    font-size: large;
+    margin-left: 120px;
+}
+
+
+.Jobber {
+    background-image: url('../Foto-GIF/Jobs.jpg');
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+h4 {
+    font-family: "Arial Black";
+    color: white;
+    font-size: xxx-large;
+    padding-left: 40px;
+    padding-top: 30px;
+}
+
+.\/3 {
+    font-family: Arial;
+    color: cadetblue;
+    padding-left: 55px;
+    margin: 40px;
+    font-size: xx-large;
+}
+
+.\/33 {
+    font-family: Arial;
+    color: white;
+    font-size: large;
+    margin-left: 120px;
+}
+
+.KontaktInfo {
+    background-image: url('../Foto-GIF/sunflower.jpg');
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+}
+
+h5 {
+    font-family: "Arial Black";
+    color: white;
+    font-size: xxx-large;
+    padding-left: 40px;
+    padding-top: 30px;
+}
+
+.\/4 {
+    font-family: Arial;
+    color: black;
+    padding-left: 55px;
+    margin: 40px;
+    font-size: xx-large;
+}
+
+.selfie {
+    position: absolute;
+    right: 15%;
+    top: 20%;
+}
