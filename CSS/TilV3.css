@@ -103,6 +103,12 @@ h2 {
     margin-left: 40px;
 }
 
+
+.\/1:hover {
+    color: white;
+}
+
+
 .Uddan {
     background-image: url('../Foto-GIF/Uddann.jpg');
     background-size: cover;
@@ -202,8 +208,12 @@ h5 {
     top: 15%;
     right: 17%;
 
-    font-family: Kefa, Serif;
+    font-family: Kefa, sans-serif;
     font-size: x-large;
     font-weight: bold;
     color: palevioletred;
 }
+
+
+
+
